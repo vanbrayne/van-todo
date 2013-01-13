@@ -1,0 +1,5 @@
+C:\GitHub\van-todo\ToDo\ToDoService\obj\Debug\ResolveAssemblyReference.cache
+C:\GitHub\van-todo\ToDo\ToDoService\bin\ToDoService.dll
+C:\GitHub\van-todo\ToDo\ToDoService\bin\ToDoService.pdb
+C:\GitHub\van-todo\ToDo\ToDoService\obj\Debug\ToDoService.dll
+C:\GitHub\van-todo\ToDo\ToDoService\obj\Debug\ToDoService.pdb
